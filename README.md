@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bristoll
+- 👋 Hi, I’m @bristollcoding
 - 👀 I’m interested in kubernetes and api development
 - 🌱 I’m currently learning python, docker and kubernetes
 - 💞️ I’m looking to collaborate on small projects with interesting concepts/ideas
