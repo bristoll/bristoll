@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bristollcoding
-- 👀 I’m interested in kubernetes and api development
-- 🌱 I’m currently learning python, docker and kubernetes
+- 👀 I’m interested in api development
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on small projects with interesting concepts/ideas
 - 📫 How to reach me: @BristollCoding on twitter
 
