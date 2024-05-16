@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bristollcoding
+- 👋 Hi, I’m @platanocoder
 - 👀 I’m interested in api development
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on small projects with interesting concepts/ideas
-- 📫 How to reach me: @BristollCoding on twitter
+
 
 <!---
 bristoll/bristoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
